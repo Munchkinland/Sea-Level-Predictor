@@ -1,5 +1,7 @@
 # Sea Level Predictor
 
+![image](https://github.com/Munchkinland/Sea-Level-Predictor/assets/92251234/9d6e422f-c329-43cc-90d3-32d838952689)
+
 This is the boilerplate for the Sea Level Predictor project.
 
 EPA Sea Level Data Analysis
